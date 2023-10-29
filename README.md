@@ -7,3 +7,4 @@ Mỗi người trong phải trong team tạo thành công 1 pull request thêm 1
 -Long's commits merged
 -Hieu's commits merged
 -Cuong's commits merged
+-Duc's commits merged
